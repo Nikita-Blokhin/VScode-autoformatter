@@ -1,0 +1,25 @@
+{
+    "semi": false,
+    "trailingComma": "none",
+    "singleQuote": true,
+    "printWidth": 79,
+    "tabWidth": 4,
+    "useTabs": false,
+    "objectWrap": "collapse",
+    "importOrder": ["^react", "^@/", "^[./]"],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "overrides": [
+        {
+            "files": [
+                "*.json",
+                "*.jsonc",
+                ".eslintrc",
+                ".eslintrc.json",
+                "tsconfig*.json",
+                "package.json"
+            ],
+            "options": { "singleQuote": false }
+        }
+    ]
+}
