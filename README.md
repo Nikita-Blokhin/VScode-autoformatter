@@ -31,6 +31,15 @@
 - Java
 - Google Java Format for VS Code
 
+###
+
+Команда для установки всех расширений:
+
+```
+code --install-extension MS-CEINTL.vscode-language-pack-ru jbockle.jbockle-format-files IronGeek.vscode-env ms-python.black-formatter ms-python.isort ms-python.vscode-pylance ms-python.python ms-python.debugpy ms-python.python-environments dbaeumer.vscode-eslint dozerg.tsimportsorter esbenp.prettier-vscode TypeScriptTeam.native-preview redhat.java JoseVSeb.google-java-format-for-vs-code
+
+```
+
 ### Минимальный настройки в settings.json в VS code
 
 Найстройки vscode находятся по пути:
